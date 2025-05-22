@@ -12,8 +12,7 @@ public class User implements Serializable {
         this.email = email;
         this.city = city;
     }
-
-    // Getters
+    
     public String getName() {
         return name;
     }
